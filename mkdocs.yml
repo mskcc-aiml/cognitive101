@@ -1,0 +1,37 @@
+# Project information
+site_name: Cognitive 101 Training
+site_url: https://github.mskcc.org/pages/aiml/cognitive101/
+
+# Repo
+repo_name: cognitive101
+repo_url: https://github.mskcc.org/aiml/cognitive101
+edit_uri: edit/master/docs
+
+# Navigation
+nav:
+  - Welcome:
+    - About the training: README.md
+  - Training:
+    - Exploring unstructured data with Watson Discovery:
+      - Introduction: discovery/README.md
+      - Unstructured content exploration: discovery/content-mining.md  
+    - Building a chatbot with Watson Assistant and Watson Discovery:
+      - Introduction: assistant/README.md
+      - Creating a dialog skill: assistant/dialog-skill.md
+      - Creating a search skill and running the chatbot: assistant/search-skill.md
+    - Using  Watson Discovery API in text analytics projects:
+      - Introduction: nlp/README.md
+      - Using  Watson Discovery API: nlp/watson-discovery-api.md
+  - Training Resources:
+    - Resources: resources.md
+
+# Theme
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+  logo: images/logo.svg

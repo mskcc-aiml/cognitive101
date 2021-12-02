@@ -1,10 +1,10 @@
 # Project information
 site_name: Cognitive 101 Training
-site_url: https://github.mskcc.org/pages/aiml/cognitive101/
+site_url: https://mskcc-aiml.github.io/cognitive101/
 
 # Repo
 repo_name: cognitive101
-repo_url: https://github.mskcc.org/aiml/cognitive101
+repo_url: https://mskcc-aiml.github.io/cognitive101/
 edit_uri: edit/master/docs
 
 # Navigation
